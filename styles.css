@@ -12,6 +12,7 @@ body {
     body {
         background-color: rgb(233, 170, 151);
         color: rgb(117, 143, 183);
+        font-size: 130%;
     }
 }
 
@@ -21,3 +22,4 @@ body {
         color: black;
     }
 }
+
